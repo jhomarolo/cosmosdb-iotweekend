@@ -1,0 +1,11 @@
+c:\users\jhona\source\repos\CosmosDBConsole\CosmosDBConsole\bin\Debug\netcoreapp2.0\CosmosDBConsole.deps.json
+c:\users\jhona\source\repos\CosmosDBConsole\CosmosDBConsole\bin\Debug\netcoreapp2.0\CosmosDBConsole.runtimeconfig.json
+c:\users\jhona\source\repos\CosmosDBConsole\CosmosDBConsole\bin\Debug\netcoreapp2.0\CosmosDBConsole.runtimeconfig.dev.json
+c:\users\jhona\source\repos\CosmosDBConsole\CosmosDBConsole\bin\Debug\netcoreapp2.0\CosmosDBConsole.dll
+c:\users\jhona\source\repos\CosmosDBConsole\CosmosDBConsole\obj\Debug\netcoreapp2.0\CosmosDBConsole.csprojResolveAssemblyReference.cache
+c:\users\jhona\source\repos\CosmosDBConsole\CosmosDBConsole\obj\Debug\netcoreapp2.0\CosmosDBConsole.csproj.CoreCompileInputs.cache
+c:\users\jhona\source\repos\CosmosDBConsole\CosmosDBConsole\obj\Debug\netcoreapp2.0\CosmosDBConsole.AssemblyInfoInputs.cache
+c:\users\jhona\source\repos\CosmosDBConsole\CosmosDBConsole\obj\Debug\netcoreapp2.0\CosmosDBConsole.AssemblyInfo.cs
+c:\users\jhona\source\repos\CosmosDBConsole\CosmosDBConsole\bin\Debug\netcoreapp2.0\CosmosDBConsole.pdb
+c:\users\jhona\source\repos\CosmosDBConsole\CosmosDBConsole\obj\Debug\netcoreapp2.0\CosmosDBConsole.dll
+c:\users\jhona\source\repos\CosmosDBConsole\CosmosDBConsole\obj\Debug\netcoreapp2.0\CosmosDBConsole.pdb
